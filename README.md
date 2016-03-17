@@ -1,12 +1,15 @@
-frontend-nanodegree-arcade-game
-===============================
+Arcade Clone
+==============
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Front end Nanodegree Project 3
+------------------------------
+https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
 
-for self-checking their submission.
+This project uses the HTML5 game canvas, and psuedo-classical JavaScript design patterns.
+For a live preview of this project, [click here](https://FlyingNarwhal.github.io/arcadeClones).
 
 TO RUN:
-open index.html in a browser
+open live preview
 
 TO Play:
 Use arrow keys to move your character to the water. Watch out though,
